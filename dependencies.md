@@ -1,5 +1,5 @@
 # Google Apps Script Project: cDriverParse
-This repo (cDriverParse) was automatically updated on 15 September 2015 11:47:49 BST by GasGit
+This repo (cDriverParse) was automatically updated on 28 September 2015 17:42:56 BST by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project cDriverParse
@@ -21,8 +21,6 @@ cParseCom| cParseCom|MMaKU0wHrNShUwFypY3nM8iz3TLx7pV4j|16|no|[here](libraries/cP
 cParseCom| cParseCom|MMaKU0wHrNShUwFypY3nM8iz3TLx7pV4j|16|no|[here](libraries/cParseCom "library source")
 cUseful| cUseful|Mcbr-v4SsYKJP7JMohttAZyz3TLx7pV4j|25|no|[here](libraries/cUseful "library source")
 ### Enabled Google Services
-*library*|*identifier*|*version*
---- | --- | --- 
-Drive API| Drive|v2
+no libraries discovered
 ###Need more detail ?
 You can see [full project info as json here](info.json)
